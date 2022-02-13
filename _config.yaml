@@ -1,0 +1,30 @@
+title: "Coconut Milk Workplace"
+description: "because I need to say my voice."
+permalink: /:title/
+theme-color: "#2ad1b5"
+gravatar: 146924576b3eec83130f224495cdbedc
+
+twitter: imgradeone
+
+authors:
+  imgradeone:
+    name: "imgradeone"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+paginate: 7
+paginate_path: "/archive/:num/"
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+future: false # Allows us to stage posts
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]

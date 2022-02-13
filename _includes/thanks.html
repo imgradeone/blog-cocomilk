@@ -1,0 +1,41 @@
+{% unless page.thanks %}
+<div class="thanks">
+  <hr/>
+
+  <h2>Thank You for Reading</h2>
+  <p>I'd like to give thanks to you for reading my article. If you think that my content is worth spreading, please share my article to some social media platforms. If you want to leave a comment, head over to the Post and Comments part.</p>
+  <p>Also, you can donate to me on <a href="https://afdian.net/@imgradeone" rel="noreferrer nofollow noopener" target="_blank">Afdian.net</a> or support me on <a href="https://odysee.com/@imgradeone" rel="noreferrer nofollow noopener" target="_blank">my Odysee channel</a>.</p>
+  <p>And I will also thank to elementary, who made the Medium-style blog template, even I am not a team member of elementary (but I did translate the elementary OS into Chinese). You can support elementary by <a href="https://elementary.io" rel="noreferrer nofollow noopener" target="_blank">downloading elementary OS</a> or <a href="https://github.com/sponsors/elementary" rel="noreferrer nofollow noopener" target="_blank">support elementary on GitHub Sponsors</a> to make the open-source future brighter.</p>
+
+  <div class="links">
+    <a
+      href="https://afdian.net/@imgradeone"
+      rel="noreferrer nofollow noopener"
+      target="_blank"
+      title="Afdian"
+    >
+      {% include svg/afdian.svg %}
+    </a>
+
+    <a
+      href="https://elementary.io"
+      rel="noreferrer nofollow noopener"
+      target="_blank"
+      title="elementary"
+      onclick="plausible('Link: elementary')"
+    >
+      {% include svg/elementary.svg %}
+    </a>
+
+    <a
+      href="https://odysee.com/@imgradeone"
+      rel="noreferrer nofollow noopener"
+      target="_blank"
+      title="Odysee"
+      onclick="plausible('Link: Odysee')"
+    >
+      {% include svg/odysee.svg %}
+    </a>
+  </div>
+</div>
+{% endunless %}

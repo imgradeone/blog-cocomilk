@@ -1,0 +1,64 @@
+{% if page.license == "sa" %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+  {% include svg/creative-commons-nc.svg %}
+  {% include svg/creative-commons-sa.svg %}
+</div>
+{% elsif page.license == "nd" %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+  {% include svg/creative-commons-nc.svg %}
+  {% include svg/creative-commons-nd.svg %}
+</div>
+{% elsif page.license == "commercial" %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+  {% include svg/creative-commons-sa.svg %}
+</div>
+{% elsif page.license == "commercial-nd" %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+  {% include svg/creative-commons-nd.svg %}
+</div>
+{% elsif page.license == "by" %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+</div>
+{% elsif page.license == "all" %}
+<div class="license">
+  {% include svg/copyright.svg %}
+  <a>
+    All rights reserved. You shouldn't redistribute any part of this content.
+  </a>
+</div>
+{% else %}
+<div class="license">
+  <a title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    Some rights reserved
+  </a>
+  {% include svg/creative-commons.svg %}
+  {% include svg/creative-commons-by.svg %}
+  {% include svg/creative-commons-nc.svg %}
+  {% include svg/creative-commons-sa.svg %}
+</div>
+{% endif %}

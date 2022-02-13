@@ -4,9 +4,9 @@ description: "Who won't like cocomilk?"
 author: imgradeone
 image: https://images.unsplash.com/photo-1643228995868-bf698f67d053?fm=jpg&w=1080
 license: nd
-# github: https://github.com/imgradeone/blog/discussions
-# twitter: https://twitter.com/imgradeone
-# bilibili: https://t.bilibili.com/626247441975938813
+github: https://github.com/imgradeone/blog/discussions/1
+twitter: https://twitter.com/imgradeone/status/1492828905555722249
+bilibili: https://t.bilibili.com/626698392066917231
 # afdian: https://afdian.net/p/9ea7a41e027a11ecaf7952540025c377
 ---
 

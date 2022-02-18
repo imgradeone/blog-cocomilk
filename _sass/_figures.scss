@@ -165,6 +165,19 @@ figure {
     }
   }
 
+  &.header {
+    margin: 0 auto !important;
+
+    img,
+    video {
+      left: 50%;
+      max-width: 100vw;
+      position: relative;
+      transform: translateX(-50%);
+      width: 100vw;
+    }
+  }
+
   &.constrained {
     img,
     video {

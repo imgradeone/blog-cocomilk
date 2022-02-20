@@ -4,10 +4,13 @@ description: "Who won't like cocomilk?"
 author: imgradeone
 image: https://images.unsplash.com/photo-1643228995868-bf698f67d053?fm=jpg&w=1080
 license: nd
+
 github: https://github.com/imgradeone/blog/discussions/1
 twitter: https://twitter.com/imgradeone/status/1492828905555722249
 bilibili: https://t.bilibili.com/626698392066917231
 # afdian: https://afdian.net/p/9ea7a41e027a11ecaf7952540025c377
+# odysee: 
+# weibo: 
 ---
 
 Welcome to the "Coconut Milk Workplace", a.k.a "Cocomilk Work". This is my brand new blog, focusing on English content and my own thought.
@@ -40,7 +43,7 @@ Someone maybe want to ask that why I still want to share my English content in C
 
 ## Why You Use Jekyll?
 
-Jekyll, as far as I see, is the most comfortable and playful way to start my own blog and focus on content more. I've tried Jekyll and the elementary Blog Template before, and actually used in some projects like [Toolb Discover](https://discover.imgradeone.com) and [Project Aliver](https://glzx.xyz). It's configuable, and much easier than I thought, with a simple and beautiful interface. In the other words, I can write Markdown content on literally all platforms, like computers and smartphones, except that it's a bit more difficult to publish article though phones, while [Gridea](https://gridea.dev) (except for their special [Web Edition](https://web.gridea.dev)) always requires the client (or application) to update content, which made me confused. Also, Gridea client itself is inactivately developed. So, Jekyll should be a great choice for me.
+Jekyll, as far as I see, is the most comfortable and playful way to start my own blog and focus on content more. I've tried Jekyll and the elementary Blog Template before, and actually used in some projects like [Toolb Discover](https://discover.imgradeone.com) and [Project Aliver](https://glzx.xyz). It's configuable, and much easier than I thought, with a simple and beautiful interface. In the other words, I can write Markdown content on literally all platforms, like computers and smartphones, except that it's a bit more difficult to publish article though phones, while [Gridea](https://gridea.dev) (except for their special [Web Version](https://web.gridea.dev)) always requires the client (or application) to update content, which made me confused. Also, Gridea client itself is inactivately developed. So, Jekyll should be a great choice for me.
 
 And thanks to GitHub Pages, everything gets more simple.
 
@@ -62,7 +65,9 @@ Of course, every content is created without full text translation from Chinese, 
 
 Previously, I wanted to use CC BY-NC-ND License for once, but for some further consideration like community translations for my articles (really?), I would use different licenses according to how important the article for me, including **All Rights Reserved** situation. Before you repost or copy my articles, please first take a look at the `Some rights reserved` part at the end of every articles, and take a look at the actual license. If possible, you should click on the text and read about the licensing content.
 
-However, you must at least give a link back to my blog, and give appropriate credit.
+However, you must at least give a link back to my blog, and give appropriate credit. (Except for **All Rights Reserved** content, as you should not copy any content from this kind of articles.)
+
+> And, oh yes, it is rude to directly machine-translate my article.
 
 ---
 

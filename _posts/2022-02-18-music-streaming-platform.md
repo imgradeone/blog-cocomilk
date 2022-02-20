@@ -16,7 +16,8 @@ tags:
 ---
 
 > This article mainly focuses on my experience, and as I am located in China, something might be slightly different in your region (or maybe unavaliable).  
-> For oversea platforms, the region I use is Hong Kong. Some contents might be different but it should be mostly the same.
+> For oversea platforms, the region I use is Hong Kong. Some contents might be different but it should be mostly the same.  
+> Podcast feature is not in our topic.
 
 While listening to music is part of my life, I always thought that something got wrong today. As some platforms shift their focus on social things, listening becomes more and more weird. Previously, I mostly use NetEase CloudMusic, while CloudMusic provides more music that I like. Sometimes I found myself sliding on the comments for long time, while music was playing in the background, and just then I suddenly noticed that I didn't really enjoy the music itself.
 
@@ -146,7 +147,11 @@ While CloudMusic provides up to 320 kbps playback for free users (in a few songs
 
 Although NetEase tried the best to get more content copyrights, they still focus more on independent Chinese music creator. and because of that, you can listen to lots of music by many independent artists, but songs by some famous artist are still unavaliable on CloudMusic today, including Jay Chou and TFBOYS. But it is not always a bad news, as music resources on CloudMusic can be better used. (Meanwhile, Bandcamp allows listeners to directly support independent artists with free full-song preview.)
 
-Some independent works 
+Some famous independent works are also released to some global platforms like Spotify, for example, "接个吻，开一枪"'s "失眠飞行" (*Insomnia Flight*) is avaliable on [Spotify](https://open.spotify.com/track/4YnIDovoMJziwjW8oZZesQ?si=99950694e720405f) and [Tidal](https://tidal.com/browse/track/170592338) as well, with copyright by "网易音乐人" (NetEase Musician). ~~(but not on QQMusic lol)~~
+
+However, while NetEase Musician introduced a lot of original works, CloudMusic still allows users to upload songs (just feels like SoundCloud xd). And... Sometimes your favourite music might suddenly becomes unavaliable... Uh, I'm out of topic.
+
+Similar to some other Chinese music streaming platform, some songs in CloudMusic is limited to VIP users, and that means you'd better pay for the VIP to get fully access to the music library. But, some special digital albums are **forced** to be paid to listen, with little-to-no preview.
 
 <figure class="card" markdown="1">
 ![Forced Paid Album](/images/music-streaming-platform/cloudmusic/paid-album.png)
@@ -154,9 +159,17 @@ Some independent works
 <figcaption>Some album is forced to be paid in order to listen</figcaption>
 </figure>
 
+After your paid for a single song or an album, you can get access to this song/album forever (as long as it's avaliable) and download it in no-encrypt MP3/FLAC format, while some unpaid VIP-only downloads are only avaliable in encrypted NCM format. (The NCM format is similar to Spotify's encrypted OGG format provided by offline feature.)
+
+For listening? CloudMusic is not as pure as Spotify, but it works as expected, and pretty enjoyable.
+
 <figure class="on-screen">
-  <p><img src="/images/music-streaming-platform/cloudmusic/legacy-uwp.png" alt="CloudMusic Windows Screenshot" tabindex="-1"></p>
+  <p><img src="/images/music-streaming-platform/cloudmusic/legacy-uwp.png" alt="CloudMusic Windows UWP Screenshot" tabindex="-1"></p>
 </figure>
+
+To be noted, CloudMusic previously developed a handy UWP client, with smooth experience and excellent Windows integration, but NetEase now dropped its support, and if you download their ["UWP" client](https://www.microsoft.com/zh-cn/p/网易云音乐uwp/9nblggh6g0jf), it will turn into a regular Win32 version. (just look back on previous picture, not this picture above!)
+
+For the price, while CloudMusic is a Freemium platform, they provide 2 different kinds of Premium: Vinyl VIP ("黑胶VIP") 
 
 - **Music Library (or Copyright)**: It Only "Just Works"
 - **Audio Quality**: Not So Good but Still Okay

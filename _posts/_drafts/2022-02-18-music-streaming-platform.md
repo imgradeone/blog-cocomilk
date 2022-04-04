@@ -129,8 +129,6 @@ In Hong Kong, Tidal HiFi is cheaper than Spotify Premium Individual, with HK$48/
 
 NetEase Cloud Music (refer as "CloudMusic") is a fast-growing Chinese music platform, with their special community ecosystem.
 
-~~First please ignore Wowkie Zhang / Da Zhang Wei / 大张伟 in this picture.~~
-
 <figure class="on-screen">
   <p><img src="/images/music-streaming-platform/netease-cloudmusic.png" alt="CloudMusic Windows Screenshot" tabindex="-1"></p>
 </figure>
@@ -169,7 +167,7 @@ For listening? CloudMusic is not as pure as Spotify, but it works as expected, a
 
 To be noted, CloudMusic previously developed a handy UWP client, with smooth experience and excellent Windows integration, but NetEase now dropped its support, and if you download their ["UWP" client](https://www.microsoft.com/zh-cn/p/网易云音乐uwp/9nblggh6g0jf), it will turn into a regular Win32 version. (just look back on previous picture, not this picture above!)
 
-For the price, while CloudMusic is a Freemium platform, they provide 2 different kinds of Premium: Vinyl VIP ("黑胶VIP") 
+For the price, while CloudMusic is a Freemium platform, they provide 2 different kinds of Premium: Vinyl VIP ("黑胶VIP") and Paid Music Pack ("付费音乐包"). While both can let you access all songs without limit, only VIP could disable all the ads ()
 
 - **Music Library (or Copyright)**: It Only "Just Works"
 - **Audio Quality**: Not So Good but Still Okay

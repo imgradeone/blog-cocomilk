@@ -25,9 +25,13 @@ Also, my legacy Chinese identity HAD misled a lot of people (even though my Engl
 
 I simply hate those of things, while I'm facing a rising risk of being more dangerous and limited. The thing I want to do is to share my idea and create what I love independently, without obnoxious things interrupting.
 
-For now, I will announce that I'm going to change to another new Chinese identity, and also, with a new Chinese blog. I cannot spoiler any details about this new identity, since everything is still under heavy consideration, and I don't want it to be stolen accidently. Also, some subjects might be changed. Anyway, there's *something* I could tell you about.
+For now, I will announce that I'm going to change to another new Chinese identity. I cannot spoiler any details about this new identity, since everything is still under heavy consideration, and I don't want it to be stolen accidently. Also, some subjects might be changed. Anyway, there's *something* I could tell you about.
 
-The new personal branding will still contain some familiar elements from my previous identity, but it will point out my position for future works - independent, creative and impressive. The date to release my new identity is still uncertain, however it should be public after September - or even the next year, who will know?
+The new personal branding will still contain some familiar elements from my previous identity, but it will point out my position for future works - independent, creative and impressive. The date to release my new identity is still uncertain, however it should be public after September - or even the next year, who will know? Importantly, it is no use guessing what the branding will be like, and any identity changes will not be impacted or interrupted by anyone else.
 
+Another good news is that I'm going to create my own new Chinese blog and Weixin Official (or actually, Public?) Account. They will follow my work guidelines, just like what Coconut Milk Workplace shows you. This will only happen after I settle with my new branding, and it could take even longer to be published.
 
+After all, it's time to make my work more independent, with a better branding facing to more people.
+
+Stay tuned!
 
